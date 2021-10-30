@@ -1,0 +1,17 @@
+Kontaktr: A CRUD web application that stores users' contact details.
+
+Entity: User
+Fields: Name(s) | Email | Telephone(s)
+
+Actions
+Create:
+- Create a user
+
+Read:
+- Search for a user
+
+Update:
+- Update user name | email | telephone
+
+Delete:
+- Delete a user
